@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="icon" href="logo/icon.png" type="image/x-icon">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>For A Girl</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Lora:400,700|Montserrat:300" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css?family=Quicksand:300,500" rel="stylesheet" />
+  
+</head>
+   <a href=index.html>
+  <center> 
+      <img class = "logo" src= logo/logo.png alt= "Beyond"> </center>
+    </a>
+  
+<nav>
+    <ul>
+<!--       <li><a href=index.html>Beyond</a></li> -->
+      <li><a href=stats.html>Stats</a></li>
+      <li><a href=spotlight.html>Spotlight</a></li>
+      <li><a href=foragirl.html>For a Girl</a></li>
+      <li><a href=powerup.html>PowerUp</a></li>
+    </ul>
+</nav>
+
+<body>
+  <center> <h1 class="title">
+    Organizations
+  </h1>
+  </center>
+  <div class="organizations">
+    <div class=kwk>
+    <p>
+      <img class="foragirlImage" src="assets/kwk.jpeg">
+      <a href="https://www.kodewithklossy.com/"><button>Learn More</button></a>
+    </p>
+    </div>
+    <p>
+      <img class="foragirlImage" src="assets/unwomen.png">
+      <a href="https://www.unwomen.org/en"><button>Learn More</button></a>
+    </p>
+    <p>
+      <img class="foragirlImage" src="assets/now.gif">
+      <a href="https://now.org/"><button>Learn More</button></a>
+    </p>
+</div>
+  <center> <h1 class="title">
+    Donations
+  </h1> </center>
+  <div class="donations">
+    
+     <p>
+      <img class="foragirlImage" src="assets/malalafund.png">
+       <a href="https://malala.org/"><button>Learn More</button></a>
+      </p>
+      <p>
+      <img class="foragirlImage" src="http://static1.squarespace.com/static/5671b46c841aba9a6fc7ba33/t/620c534d1f8b737ccbd3a947/1644974925773/EPT+navy+purple+sans+tagline.png?format=1500w">
+        <a href="http://www.equalpaytoday.org/"><button>Learn More</button></a>
+      </p>
+    
+      <p>
+      <img class="foragirlImage" src="assets/aclu.png">
+        <a href="https://www.aclu.org/issues/womens-rights/womens-rights-workplace/equal-pay"><button>Learn More</button></a>
+    </p>
+    
+  </div>
+</body>
