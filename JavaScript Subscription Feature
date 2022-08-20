@@ -1,0 +1,23 @@
+var submitButton = $('.submitForm');
+var name = $('.formName');
+var email = $('.formEmail');
+
+submitButton.on("click", thankYouMessage);
+
+function thankYouMessage() {
+  alert("Thank you for subscribing! 💕");
+ }
+
+/*
+function thankYouMessage() {
+  var inputName = name.val();
+  var inputEmail = email.val();
+  if (inputName === "") {
+    alert ("Please fill out all sections of the form");
+  } else if (inputEmail === "") {
+    alert ("Please fill out all sections of the form");
+  } else {
+    alert("Thank you for subscribing! ❤");
+  }
+}
+*/
