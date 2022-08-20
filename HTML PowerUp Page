@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="icon" href="logo/icon.png" type="image/x-icon">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>PowerUp</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Lora:400,700|Montserrat:300" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Quicksand:300,500" rel="stylesheet">
+</head>
+
+<body>
+  <a href=index.html>
+  <center> 
+      <img class = "logo" src= logo/logo.png alt= "Beyond"> </center>
+    </a>
+  <nav>
+    <ul>
+<!--       <li><a href=index.html>Beyond</a></li> -->
+      <li><a href=stats.html>Stats</a></li>
+      <li><a href=spotlight.html>Spotlight</a></li>
+      <li><a href=foragirl.html>For a Girl</a></li>
+      <li><a href=powerup.html>PowerUp</a></li>
+    </ul>
+  </nav>
+
+  <center><h1
+    >Meet the Team
+  </h1> </center>
+
+<center>
+  <div class = "meetTheTeam">
+    <center>
+      <h2 class = "MTTName">Vishva Koladiya, Web Developer</h2>
+    <div class = "imgAndBio">
+      <img class = "bioImg" src=bioImages/vishva.jpg alt="A picture of Vishva.">
+      <div class = "box">
+        <p class= "bio">Hi! I am Vishva, the creator of Beyond! I have always been super active within the gender inequality community and I have always wanted to help out in any way I can, which is why I chose to create this site with my fellow team members!</p>
+      </div>
+    </div>
+    </center>
+  </div>
+
+</center>
+  
+  <script src="script.js"></script>
+
+</body>
+
+</html>
