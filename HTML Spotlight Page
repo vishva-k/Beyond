@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="icon" href="logo/icon.png" type="image/x-icon">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Spotlight</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Lora:400,700|Montserrat:300" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Quicksand:300,500" rel="stylesheet">
+</head>
+
+<body>
+  <a href=index.html>
+  <center> 
+      <img class = "logo" src= logo/logo.png alt= "Beyond"> </center>
+    </a>
+  <nav>
+    <ul>
+
+      <li><a href=stats.html>Stats</a></li>
+      <li><a href=spotlight.html>Spotlight</a></li>
+      <li><a href=foragirl.html>For a Girl</a></li>
+      <li><a href=powerup.html>PowerUp</a></li>
+    </ul>
+  </nav>
+
+  <section class="spotCSS">
+    <div>
+      <h1 class="intro1">Spotlight</h1>
+    </div>
+    <div class="intro">
+      <p>Here are a few individuals who have put in their efforts to bring about gender equality in their various industries.</p>
+    </div>
+
+    <div class="rm1">
+ 
+  <img src="spotlightImages/malala2.jpg" class="rm1Pic" alt="A picture of Malala Yousafzai" width="250" height="250">
+      <div class="wrap">
+     <h3 class = "lt">Malala Yousafzai</h3>
+      <p class="rm1Text">In 2012 a gunman boarded Malala's school bus and shot her on the left side of her head. This simple act brought awareness to the gender inequality in the education sector of Pakistan. Waking up 10 days later in Birmingham UK, Malala decided that she would use her voice to advocate for young girls everywhere. With that, she established the Malala Fund. Now, every year on the 12th of July we celebrate Malala Day to remember all the challenges and sacrifices Malala and her family endured in order to ensure that every girl had the opportunity to go to school.</p>
+      </div>
+    </div>
+    
+    <div class="rm2">
+      <img src="spotlightImages/emma2.jpg" class="rm2Pic" alt="A picture of Emma Waston" width="250" height="250">
+       <h3 class="rt">Emma Watson</h3>
+      <p class="rm2Text">On September 20, 2014, Emma Watson (British actor and Goodwill Ambassador for U.N. Women) delivered a speech on gender inequality and the steps to fight it. Alongside it, she launched the HeForShe intiative, which targets men and boys to join the feminist fight for gender equality. In her speech, she addressed an important factor in achieving gender equality: getting rid of harmful and destructive stereotypes of masculinity and behavioral expectations for men and boys (source: Nicki Lisa Cole, Ph.D. for ThoughtCo).<br>
+      <!--In her speech she states, "Both men and women should feel free to be sensitive. Both men and women should feel free to be strong… It is time that we all perceive gender on a spectrum not as two opposing sets of ideals."--></p>
+      </div>
+    </div>
+    
+    <div class="rm1">
+      <img src="spotlightImages/karlie2.jpg" class="rm1Pic" alt="a picture of Karlie Kloss" width="250" height="250"><div class="wrap">
+       <h3 class = "lt">Karlie Kloss</h3>
+      <p class="rm1Text"> 
+        Karlie Kloss is an American fashion model and computer programmer. She launched the 2-week programming camp "Kode with Klossy" for girls 13-18 years of age to create a safe environment where girls can explore and step into the world of computer science. As of 2018, the camp has expanded to include 50 coding camps in 25 US cities, teaching over 1000 girls to code (CNET). 
+By the end of the program, those partaking in the camp build their own fully functional mobile apps or websites.</p>
+      </div>
+    </div>
+    
+    <div class="rm2">
+      <img src="spotlightImages/christina2.jpg" class="rm2Pic" alt="a picture of Christiana Wooton" width="250" height="250">
+      <div class="wrap">
+      <h3 class="rt">Christina Wootton</h3>
+      <p class="rm2Text"> Christina Wooton serves as Vice President of Brand Partnerships at Roblox. She focuses on building awareness and engagement for Roblox by establishing strategic long-term relationships with other premier brands to provide enriching digital experiences for millions of players across the globe. She also spends time sharing her experiences with other students and encourages girls to step up to leadership positions. </p>
+      </div>
+    </div>
+    
+    <div class="rm1">
+      <img src="spotlightImages/rain2.jpg" class="rm1Pic" alt="a picture of Rain Dove Dubilewski" width="250" height="250">
+      <div class="wrap">
+      <h3 class = "lt">Rain Dove Dubilewski </h3>
+      <p class="rm1Text"> Rain Dove Dubilewski is an American model, actor, and activist, best known for their work in subversive fashion, as a gender-nonconforming model, posing alternately as male and female in photoshoots, productions, and runway shows. Dove was named one of Elle Magazine's 12 Women Who Are Redefining Beauty in 2015. A self-described "gender capitalist," Dove stated, "I've never really cared about pronouns for my own descriptors", and that they disavow personal pronouns and ask people to choose whichever they feel apply: "Use she, he, it, one, they ... I honestly don't care ... All I'm listening for in that sound is positivity.</p>
+        </div>
+    </div>
+    
+    <div class="rm2">
+      <img src="spotlightImages/marsai2.jpg" class="rm2Pic" alt="a picture of Marsai Martin" width="250" height="250">
+      <div class="wrap">
+      <h3 class="rt">Marsai Martin</h3>
+      <p class="rm2Text"> 
+        In 2019, Martin starred in the comedy film Little, which she also produced, becoming the youngest person ever to produce a studio film. The same year, Time magazine named her on its "Time 100 Next." Now, Martin heads her own production company, Genius Productions. Her aim is to tell more stories, with diverse casts, that people her age can relate to—in other words, she’s shaping the culture, a far cry from just selling it to an audience (Stephanie Zacharek).</p>
+        </div>
+    </div>
+
+
+  </section>
+  
+  <div>
+    <p class = "spotSources">Below are a list of sources:
+      <ul class = "spotList">
+          <li><a href="https://profeminist.tumblr.com/post/185455653987/marsai-martin-was-told-she-was-too-young-to-be-an">marsai</a></li>
+          <li><a href="https://en.wikipedia.org/wiki/Rain_Dove">Rain</a></li>
+          <li><a href="https://en.wikipedia.org/wiki/Karlie_Kloss">Karlie</a></li>
+          <li><a href="https://www.thoughtco.com/transcript-of-emma-watsons-speech-on-gender-equality-3026200">Emma</a></li>
+          <li><a href="https://malala.org/malalas-story">Malala</a></li>
+      
+      </ul>
+   </p>
+  </div>
+
+
+  <script src="script.js"></script>
+  
+</body>
+
+</html>
