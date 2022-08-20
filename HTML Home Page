@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="icon" href="logo/icon.png" type="image/x-icon">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Beyond</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  <link href="http://fonts.cdnfonts.com/css/gilroy-bold" rel="stylesheet">
+  <style> 
+    @import url('http://fonts.cdnfonts.com/css/gilroy-bold');   </style>
+  <link href="http://fonts.cdnfonts.com/css/recoleta" rel="stylesheet">
+  <style>
+@import url('http://fonts.cdnfonts.com/css/recoleta');
+</style>
+<link href="https://fonts.googleapis.com/css?family=Lora:400,700|Montserrat:300" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Quicksand:300,500" rel="stylesheet">
+                
+</head>
+
+<body>
+  <a href=index.html>
+  <center> 
+      <img class = "logo" src= logo/logo.png alt= "Beyond"> </center>
+    </a>
+
+  <center><nav>
+    <ul>
+<!--       <li><a href=index.html>Beyond</a></li> -->
+      <li><a href=stats.html>Stats</a></li>
+      <li><a href=spotlight.html>Spotlight</a></li>
+      <li><a href=foragirl.html>For a Girl</a></li>
+      <li><a href=powerup.html>PowerUp</a></li>
+    </ul>
+  </nav> 
+   <div>
+  <center> <div class= "box2">
+  <h2>Beyond the horizon </h2>
+<h3>Beyond the injustice </h3>
+<h4>Beyond the looks</h4>
+  </center>
+  </div>
+</div>
+
+<div class="homePar">
+  <p>At Beyond, we aspire to raise awareness of gender inequality in the education sector and in work environments. </p>
+
+  <p>We have highlighted various organizations, influential people, and more who strive to bring awareness and change to this important issue. </p> 
+ </center> 
+</div>
+
+  <center> <img class = "hpImg" src=logo/hpimage.png alt="Gender Equality"> </center>
+
+  <div class="subscribeForm">
+    <h1 class="hSubscribe">Subscribe for more insight!</h1>
+    <div class="form">
+      <div class="inputFields">
+        <label>Name</label>
+          <input class="formName">
+        <label>Email</label>
+          <input class="formEmail">
+      </div>
+
+      <button class = "submitForm">Submit</button>
+      <p class = "thankYou"> </p>
+    </div>
+  </div>
+ 
+  
+  <script src="script.js"></script>
+</body>
+
+</html>
