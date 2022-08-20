@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="icon" href="logo/icon.png" type="image/x-icon">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Stats</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Lora:400,700|Montserrat:300" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Quicksand:300,500" rel="stylesheet">
+</head>
+
+<body>
+   <a href=index.html>
+  <center> 
+      <img class = "logo" src= logo/logo.png alt= "Beyond"> </center>
+    </a>
+  <nav>
+    <ul>
+<!--       <li><a href=index.html>Beyond</a></li> -->
+      <li><a href=stats.html>Stats</a></li>
+      <li><a href=spotlight.html>Spotlight</a></li>
+      <li><a href=foragirl.html>For a Girl</a></li>
+      <li><a href=powerup.html>PowerUp</a></li>
+    </ul>
+  </nav>
+
+  <center><h1 class = "navHeader">Statistics</h1> </center>
+
+<div class = "allInformation">
+<div class = "education" class="information">
+  <div class = "headAndText" class = "headAndTextEducation">
+  <h2 class = "secHeader">Education</h2>
+    <p class = "statistic">1. Worldwide, 129 million girls are out of school (Unicef).</p>
+    <p class = "statistic">2. A girl's eventual income will increase by 10-20% for every year she says in school (UN Women).</p>
+    <p class = "statistic">3. In a study of 100 countries, for every 1% increase in women with secondary education, the country's annual per capita income growth rate increased by 0.3.</p>
+    <p class ="statistic">4. One of 17 of the United Nation's Sustainable Development Goals (SDG) is gender equality. The objective is to reach the 17 goals by 2030.</p>
+  </div>
+    <img class ="infographic1" src="https://cdn.thinglink.me/api/image/763630470444351490/1024/10/scaletowidth#tl-763630470444351490;1043138249'" width="500px" height="900px">
+  <p class = "caption1">Infographic from Asian Development Bank</p>
+</div>
+  
+<div class = "wageGap" class="information">
+  <div class="headAndText" class="headAndTextWage">
+  <h3 class = "secHeader">Wage Gap</h3>
+    <p class = "statistic">1. In 2019, the national earnings wage gap by sex in the United States was $10,150 (±$276) (US Census Beureau).</p>
+    <p class = "statistic">2. In 2020, women earned 83 cents to every dollar earned by men (US Census Beureau).</p>
+    <p class = "statistic">3. 42% of women claim they have been discriminated against at work because of their gender (Pew Research Center).</p>
+  </div>
+    <div class = inforgraphicText>
+    <img class="infographic2" src="https://cdn.statcdn.com/Infographic/images/normal/3958.jpeg" width="500px" height="900px">
+    <p class = "caption">Infographic from Statista</p>
+    </div>
+</div>
+</div>
+  
+  <script src="script.js"></script>
+
+
+</body>
+
+</html>
